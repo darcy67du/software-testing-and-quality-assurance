@@ -1,4 +1,4 @@
-# Software Testing & Quality Ass
+# Software Testing & Quality Assur
 
 This project focuses on setting up a JavaScript testing environment using **Node.js, Git, Jest, Mocha, Chai, Supertest, Cypress, ESLint, and NYC**. It includes verification tests, API testing, unit testing, code coverage, and code quality checks.
 
