@@ -13,6 +13,8 @@ This project focuses on setting up a JavaScript testing environment using **Node
 * ESLint
 * NYC
 
+  
+
 ## Getting Started
 
 ```bash
